@@ -1,0 +1,13 @@
+1-Bit Texture & Tile Library (16x16)
+Creator: piiixl
+Source: https://piiixl.itch.io/1-bit-patterns-and-tiles
+License: Creative Commons Attribution 4.0 International
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+PixiPal adaptations: exact 16x16 PNG patterns are converted to binary stencil
+seeds using alpha and luminance thresholds, packed and deduplicated for brush
+and fill use. Original names, folder categories and hashes remain in the catalog.
+No endorsement by the creator is implied.
+
+The supplied bundled notice is retained separately as brush-pattern-LICENSE.txt.
