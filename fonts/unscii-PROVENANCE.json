@@ -1,0 +1,31 @@
+{
+  "file": "unscii-16.ttf",
+  "family": "Unscii",
+  "author": "Viznut",
+  "suppliedPath": "J:/DOWN Loads/unscii-16.ttf",
+  "upstream": "https://github.com/viznut/unscii",
+  "licenseStatement": "Public Domain (or CC-0); excludes unscii-16-full.*",
+  "sha256": "0c889d6026f3bfe6cfa0e73833595678a548ed08dabeb1d71c5ad0fa9b309529",
+  "bytes": 280672,
+  "modified": false,
+  "renderingDerivative": {
+    "file": "unscii-16-sharp.otf",
+    "format": "OpenType CFF",
+    "sha256": "6b9ce4467eee3d3a8eeb3c2f71821ea59139aacdc6e681ced7943138a3cd915a",
+    "bytes": 154756,
+    "generator": "scripts/derive-unscii-sharp.py",
+    "preserved": "cmap, glyph bounds, advances and bearings"
+  },
+  "bitmapRendering": {
+    "file": "unscii-16-bitmap.woff",
+    "sha256": "4d2b0b7e4b57dde33a43b2e5d107112d60dd556607c136ebfe0cb5d70edaa75d",
+    "bytes": 442832,
+    "generator": "scripts/derive-unscii-bitmap.py",
+    "source": "unscii-16.hex",
+    "sourceSha256": "2642c8b748fa81f24d76772d70c55faa720d98fadfec8133daf89136c5c8bfb1",
+    "upstreamCommit": "257b4dfeb50651510fe8b9cf4f151a148a4490e4",
+    "tables": "CBLC/CBDT v3 with monochrome image format 1 and bitDepth 1",
+    "strikesPpem": [16, 20, 24, 28, 32, 36, 40, 48, 56, 64],
+    "preserved": "original cmap, outlines, advances and bearings; original bitmap cells scaled with nearest-neighbor"
+  }
+}

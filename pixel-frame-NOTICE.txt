@@ -1,0 +1,13 @@
+PixiPal Pixel Frame renderer
+
+Adapted from pixel-frame-demonstrator.zip supplied by Ariel for PixiPal.
+Original archive SHA-256:
+270b7f1ce65d0e2f073ff712c99a4d2dd1fc109295860fd29bc9ea5a61397e8e
+
+The reused profile, bitmap/corner, normal, material, composition and lighting
+algorithms retain their original source comments. PixiPal replaces the demo's
+page-global ownership with isolated module installers and a typed React adapter.
+The ImageData constructor is injected for browser rendering and deterministic tests.
+
+pixel-frame-PROVENANCE.json contains hashes of the supplied source modules.
+This notice records provenance; it does not assert an additional license grant.

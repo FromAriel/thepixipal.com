@@ -1,0 +1,31 @@
+Unscii-16 by Viznut (Ville-Matias Heikkila).
+Source font supplied by Ariel: J:\DOWN Loads\unscii-16.ttf
+Upstream: https://github.com/viznut/unscii
+Author's project: https://viznut.fi/unscii/
+
+Native bitmap rendering asset: unscii-16-bitmap.woff
+SHA-256: 4d2b0b7e4b57dde33a43b2e5d107112d60dd556607c136ebfe0cb5d70edaa75d
+Generated from regular unscii-16.hex at upstream commit
+257b4dfeb50651510fe8b9cf4f151a148a4490e4, included beside this notice.
+Bitmap source SHA-256:
+2642c8b748fa81f24d76772d70c55faa720d98fadfec8133daf89136c5c8bfb1
+Uses monochrome CBLC/CBDT strikes at 16, 20, 24, 28, 32, 36, 40,
+48, 56 and 64 ppem for standard display scales from 100% through 400%.
+The original TTF remains unchanged. No Full/Unifont data is included.
+
+Upstream licensing statement for regular Unscii:
+"You can consider it Public Domain (or CC-0) except for the files derived
+from or containing parts of Roman Czyborra's Unifont project
+(unifont.hex, hex2bdf.pl, unscii-16-full.*) which fall under GPL."
+
+This package includes only regular unscii-16.ttf, not unscii-16-full.
+The supplied font bytes are preserved without modification.
+SHA-256: 0c889d6026f3bfe6cfa0e73833595678a548ed08dabeb1d71c5ad0fa9b309529
+
+PixiPal additionally includes unscii-16-sharp.otf, a CFF outline conversion
+of the retained regular TTF, generated with scripts/derive-unscii-sharp.py.
+All 3,208 codepoint mappings, 3,212 glyph bounds, advances and bearings
+are preserved. It is retained from the earlier outline-rendering candidate;
+the native bitmap WOFF is now used for UI rendering. The original TTF stays intact.
+Earlier smoothing-flag and grid-hint experiments are not shipped.
+SHA-256: 6b9ce4467eee3d3a8eeb3c2f71821ea59139aacdc6e681ced7943138a3cd915a

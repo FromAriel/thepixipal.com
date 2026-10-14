@@ -1,0 +1,15 @@
+{
+  "source": "Ariel supplied pixel-frame-demonstrator.zip",
+  "archiveSha256": "270b7f1ce65d0e2f073ff712c99a4d2dd1fc109295860fd29bc9ea5a61397e8e",
+  "sourceModuleSha256": {
+    "bitmap": "726408389a069952c459a7884ec9b290fb29b97f86d0413092f8e7708963a96a",
+    "profile": "5c3224d2f32ae1b7e456e13946bb6f0f501ed3041916bb7bab69a0ad1ec49733",
+    "palettes": "7afca82646250b7c80c6487e6725d885b1d6ee573bffe4f872b7d785b76e9887",
+    "normals": "c75b858f2b4580ecfaa19f4ba2e6f8e6c28c7521559fd10f2dbe4d04c2dd496a",
+    "corners": "b568dc22559605c90886471fba8fe28fb24819e44b6e09fb6ce5eed24d0f271e",
+    "styles": "0e31ef89d899a06737a8d4b8441efe5b662d99bf8ea0a4d1db965b0963d3ac07",
+    "frame": "460b4e26f2f14aabb42979d73352669108374d7c1295f7295ea697d36bc0a94c",
+    "light": "d914205e9fd41a220a5c469fde27e488f62da5a268685330f843ad7dd9774719"
+  },
+  "adaptation": "Module-local installers replace window.PF; ImageData constructor is injected. Rendering algorithms and source comments retained."
+}
