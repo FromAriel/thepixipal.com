@@ -707,6 +707,11 @@ pixipal-rectangle.svg and pixipal-ellipse.svg.
 Copyright waived under CC0 1.0 Universal by PixiPal contributors.
 https://creativecommons.org/publicdomain/zero/1.0/
 
+PixiPal original R3d pixel icons: pixipal-flip-horizontal.svg,
+pixipal-flip-vertical.svg, pixipal-rotate-left.svg and pixipal-rotate-right.svg.
+Copyright waived under CC0 1.0 Universal by PixiPal contributors.
+https://creativecommons.org/publicdomain/zero/1.0/
+
 PixiPal original four-direction Move icon (pixipal-move.svg)
 Copyright waived under CC0 1.0 Universal by PixiPal contributors.
 https://creativecommons.org/publicdomain/zero/1.0/
