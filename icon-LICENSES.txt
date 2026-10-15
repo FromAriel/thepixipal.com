@@ -702,6 +702,11 @@ APACHE LICENSE 2.0
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+PixiPal original R3c pixel icons: pixipal-eyedropper.svg, pixipal-line.svg,
+pixipal-rectangle.svg and pixipal-ellipse.svg.
+Copyright waived under CC0 1.0 Universal by PixiPal contributors.
+https://creativecommons.org/publicdomain/zero/1.0/
+
 PixiPal original four-direction Move icon (pixipal-move.svg)
 Copyright waived under CC0 1.0 Universal by PixiPal contributors.
 https://creativecommons.org/publicdomain/zero/1.0/
