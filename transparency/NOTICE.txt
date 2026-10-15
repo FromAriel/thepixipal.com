@@ -1,0 +1,1 @@
+The pastel tile was supplied by Ariel for use in PixiPal and is bundled unchanged. No upstream author or license was supplied; no broader license is asserted. Other tiles are project-generated simple color patterns. See PROVENANCE.json for SHA-256 identities. These backgrounds are display-only and are not included in artwork exports.

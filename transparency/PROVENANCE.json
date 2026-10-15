@@ -1,0 +1,76 @@
+{
+  "files": [
+    {
+      "id": "classic",
+      "file": "classic.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "0fe20365a1fe364b0ed691784506086fe7b743637f9d8deca5dfedf57fb1b4ee",
+      "source": "Generated checker from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "pastel",
+      "file": "pastel.png",
+      "width": 64,
+      "height": 64,
+      "sha256": "77c74d9bc968a851beb7630a79008c80e5dfd2e4d126fc494b2f5b0f2d9598d7",
+      "source": "Ariel supplied clipboard image codex-clipboard-5cef1c2b-0798-4b58-9792-8c9b098484c7.png; copied byte-for-byte",
+      "license": "User-supplied; no upstream author or license provided"
+    },
+    {
+      "id": "light",
+      "file": "light.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "b117cfa9128418ecbd7b80210427ac040643039d8d7d7d0c652a1a1ad5eb0764",
+      "source": "Generated checker from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "neutral",
+      "file": "neutral.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "5298c2f4e8af557698e67e07d6f44079da8977d542ef79812e72ae0d8522fc3a",
+      "source": "Generated checker from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "charcoal",
+      "file": "charcoal.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "c25c93671eae524615ddbd864c9c60f474b51c1f1048f514deceeeddd75c6485",
+      "source": "Generated checker from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "black",
+      "file": "black.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "65b9fcd55e3f32d6818656d28cdf2ef5fff357b11757a70a5bbb466eea22aaf5",
+      "source": "Generated solid color from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "gray",
+      "file": "gray.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "1779a1e4a9af7f0760bfff7d2b6a2cd222e61e5246eb7aefa92b0e6e1ca8d500",
+      "source": "Generated solid color from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    },
+    {
+      "id": "white",
+      "file": "white.png",
+      "width": 2,
+      "height": 2,
+      "sha256": "0abc0b2e70b436996e19700644aa232ce745575c8b44402141b6118f9f33c9f6",
+      "source": "Generated solid color from transparency-settings.json",
+      "license": "Project-generated simple color pattern"
+    }
+  ]
+}
