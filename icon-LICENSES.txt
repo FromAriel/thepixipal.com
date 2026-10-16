@@ -716,3 +716,11 @@ PixiPal original four-direction Move icon (pixipal-move.svg)
 Copyright waived under CC0 1.0 Universal by PixiPal contributors.
 https://creativecommons.org/publicdomain/zero/1.0/
 
+
+PixiPal original R3e lasso icons: pixipal-lasso.svg and pixipal-polygon-lasso.svg.
+Copyright waived under CC0 1.0 Universal by PixiPal contributors.
+https://creativecommons.org/publicdomain/zero/1.0/
+PixiPal original R3f icons: pixipal-wand.svg and pixipal-selection-brush.svg.
+Copyright waived under CC0 1.0 Universal by PixiPal contributors.
+https://creativecommons.org/publicdomain/zero/1.0/
+
