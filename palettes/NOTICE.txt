@@ -1,0 +1,1 @@
+Palette color lists and metadata sourced from Lospec's API. Original creators and palette links are retained in catalog.json. Supplied snapshot origin confirmed by Ariel; collection date unavailable. Frozen offline catalog; optional updates are future scope. PixiPal comparison board is synthetic, not Lospec example artwork. Internal research screenshots and prose are not bundled.
