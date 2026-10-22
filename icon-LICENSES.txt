@@ -12,7 +12,7 @@ CC BY license: https://creativecommons.org/licenses/by/4.0/
 
 SVGs retrieved through Iconify. Shapes are unmodified; monochrome display size and color follow editor state.
 
-Selected icon IDs: pixelarticons:file-plus, pixelarticons:save, pixelarticons:more-vertical, pixelarticons:undo, pixelarticons:redo, pixelarticons:eraser, pixelarticons:eye, pixelarticons:eye-off, pixelarticons:arrow-up, pixelarticons:arrow-down, pixelarticons:plus, pixelarticons:copy, pixelarticons:trash, pixelarticons:chevron-left, pixelarticons:chevron-right, pixelarticons:play, pixelarticons:stop, pixelarticons:repeat, pixelarticons:link, streamline-pixel:design-color-bucket, streamline-pixel:design-layer, pixel:folder-open, pixel:pencil, pixel:lock-open, pixel:lock, boxicons:gradient, boxicons:blur, boxicons:circle-half-filled, boxicons:transparency, boxicons:noise, boxicons:noise-filled
+Selected icon IDs: pixelarticons:download-sharp, pixelarticons:file-plus, pixelarticons:save, pixelarticons:more-vertical, pixelarticons:undo, pixelarticons:redo, pixelarticons:eraser, pixelarticons:eye, pixelarticons:eye-off, pixelarticons:arrow-up, pixelarticons:arrow-down, pixelarticons:plus, pixelarticons:copy, pixelarticons:trash, pixelarticons:chevron-left, pixelarticons:chevron-right, pixelarticons:play, pixelarticons:stop, pixelarticons:repeat, pixelarticons:link, streamline-pixel:design-color-bucket, streamline-pixel:design-layer, pixel:folder-open, pixel:pencil, pixel:lock-open, pixel:lock, boxicons:gradient, boxicons:blur, boxicons:circle-half-filled, boxicons:transparency, boxicons:noise, boxicons:noise-filled
 
 
 PIXELARTICONS LICENSE
